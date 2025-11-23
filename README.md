@@ -1,80 +1,77 @@
-**🎬 Netflix Clone (React + TVMaze API)**
+**📺 Netflix Clone – React JS**
 
-A simple and responsive Netflix UI clone built using React.js, Bootstrap, and TVMaze API.
-This project includes features like:
+A responsive Netflix-style web application built using **React**, **TVMaze API, and Bootstrap, deployed on Vercel.**
 
-Dynamic banner section
+🚀 **Live Demo**
 
-Movie rows with scrolling
+👉 _https://netflix-clone-theta-blue.vercel.app/_
 
-Hover animation effects
+📌 **Features**
 
-Modal pop-up with movie details
+✅ Netflix-style UI with dark theme
 
-Search functionality
+✅ Responsive layout
 
-Fully responsive UI
+✅ Banner with background image
 
-Clean and modern design
+✅ Blurred + glass-effect navbar
 
-🚀 Features
-🔍 Search Movies
+✅ Movie rows dynamically fetched from API
 
-Search any movie or TV show using the TVMaze API.
-Results appear instantly.
+✅ Categories like Trending, Top Rated, Drama, Comedy, Action & Crime
 
-🎞 Banner Section
+✅ Search bar with live filtering
 
-Random show displayed each refresh
+✅ Search results appear at the top
 
-Background image + blur overlay
+✅ Smooth hover animations
 
-Smooth animation
+✅ Footer included
 
-📌 Categories (Rows)
+✅ Fully deployed on Vercel
 
-Trending
+**🛠️ Tech Stack**
+Technology	Purpose
+React JS	UI Framework
+Bootstrap	UI Styling
+React Icons	Icons in Navbar
+TVMaze API	Movie/Show Data
+Vercel	Hosting
 
-Top Rated
+**📂 Folder Structure**
+src/
+│── navbar.js
+│── banner.js
+│── movielist.js
+│── App.js
+│── App.css
+│── index.js
+│── footer.js
 
-Drama
+**🚀** Installation & Setup****
+1️⃣ Clone the repository
+git clone https://github.com/Mogul77/Netflix-clone.git
 
-Comedy
+2️⃣ Install dependencies
+npm install
 
-Action
+3️⃣ Start the project
+npm start
 
-Crime
+4️⃣ Build for production
+npm run build
 
-Each row displays horizontal scrolling movie cards.
+🌐 Deployment
 
-🎥 Modal Pop-Up
+This project is deployed on Vercel using GitHub integration.
+Every push to the main branch auto-deploys to production.
+**
+**📸 Screenshots
 
-Click any movie to view:
 
-Poster
 
-Summary
+📬 Author
 
-Title
-
-💨 Animations
-
-Fade-in effects
-
-Zoom-in background animation
-
-Hover scale effect on movie cards
-
-🛠️ Tech Stack
-
-React.js
-
-Bootstrap
-
-TVMaze API
-
-CSS3
-
-React Icons
-
-Vercel (deployment)  
+👤 Mogul Manoj
+GitHub: https://github.com/Mogul77
+Linkedin: https://www.linkedin.com/in/mogul-manoj-83a269291?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
