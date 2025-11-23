@@ -1,4 +1,4 @@
-🎬 Netflix Clone (React + TVMaze API)
+**🎬 Netflix Clone (React + TVMaze API)**
 
 A simple and responsive Netflix UI clone built using React.js, Bootstrap, and TVMaze API.
 This project includes features like:
