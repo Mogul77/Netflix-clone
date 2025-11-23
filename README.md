@@ -49,29 +49,31 @@ src/
 │── footer.js
 
 **🚀** Installation & Setup****
+
 1️⃣ Clone the repository
+
 git clone https://github.com/Mogul77/Netflix-clone.git
 
 2️⃣ Install dependencies
+
 npm install
 
 3️⃣ Start the project
+
 npm start
 
 4️⃣ Build for production
+
 npm run build
 
 🌐 Deployment
 
 This project is deployed on Vercel using GitHub integration.
 Every push to the main branch auto-deploys to production.
-**
-**📸 Screenshots
-
-
 
 📬 Author
 
 👤 Mogul Manoj
 GitHub: https://github.com/Mogul77
+
 Linkedin: https://www.linkedin.com/in/mogul-manoj-83a269291?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
