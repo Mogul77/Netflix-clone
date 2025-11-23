@@ -65,7 +65,7 @@ src/
 │── footer.js
 
 
-**🚀** Installation & Setup****
+****🚀** Installation & Setup******
 
 1️⃣ Clone the repository
 
