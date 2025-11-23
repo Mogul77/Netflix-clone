@@ -31,21 +31,35 @@ A responsive Netflix-style web application built using **React**, **TVMaze API, 
 ✅ Fully deployed on Vercel
 
 **🛠️ Tech Stack**
+
 Technology	Purpose
+
 React JS	UI Framework
+
 Bootstrap	UI Styling
+
 React Icons	Icons in Navbar
+
 TVMaze API	Movie/Show Data
+
 Vercel	Hosting
 
 **📂 Folder Structure**
+
 src/
+
 │── navbar.js
+
 │── banner.js
+
 │── movielist.js
+
 │── App.js
+
 │── App.css
+
 │── index.js
+
 │── footer.js
 
 **🚀** Installation & Setup****
@@ -74,6 +88,7 @@ Every push to the main branch auto-deploys to production.
 📬 Author
 
 👤 Mogul Manoj
+
 GitHub: https://github.com/Mogul77
 
 Linkedin: https://www.linkedin.com/in/mogul-manoj-83a269291?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
